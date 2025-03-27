@@ -1,7 +1,7 @@
 import axios from "axios";
 import { getToken } from "./auth";
 
-const API_BASE_URL = "http://54.167.159.114:8000";
+const API_BASE_URL = "http://54.82.61.91:8000";
 
 export const getAllPoints = async (filters) => {
   try {
