@@ -1,6 +1,6 @@
 import axios from 'axios';
 import { getToken } from './auth';
-const API_BASE_URL = 'http://54.242.212.130:8000';
+const API_BASE_URL = 'http://100.27.218.227:8000';
 
 export const getVendorData = async () => {
   try {
