@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_BASE_URL = 'http://54.82.61.91:8000';
+const API_BASE_URL = 'http://54.242.212.130:8000';
 
 
 // Login API function to authenticate the user and store the token and user type
