@@ -2,7 +2,7 @@ import axios from 'axios';
 
 import { getToken } from './auth'; 
 import { BiBody } from 'react-icons/bi';
-const API_BASE_URL = 'http://100.27.218.227:8000';
+const API_BASE_URL = 'http://54.196.161.53:8000';
 
 
 export const uploadFileAPI = async (file) => {
